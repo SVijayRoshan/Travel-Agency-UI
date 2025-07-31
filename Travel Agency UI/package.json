@@ -1,0 +1,29 @@
+{
+  "name": "travels-agency",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.0",
+    "@mui/lab": "^5.0.0-alpha.144",
+    "@mui/material": "^5.14.0",
+    "@mui/x-data-grid": "^6.4.0",
+    "@mui/x-date-pickers": "^6.4.0",
+    "@tanstack/react-query": "^5.72.2",
+    "bcryptjs": "^3.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.1.0",
+    "vite": "^6.2.5"
+  }
+}
